@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<helpParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<helpData>
+
+<viewLocation>/data/temenos/r21/HELP.TEXT/HelpText/</viewLocation>
+
+<editLocation>/data/temenos/r21/HELP.TEXT/HelpText/</editLocation>
+
+<language>GB</language>
+
+<imagesDir>/data/temenos/r21/HELP.TEXT/HelpText/HelpImages/</imagesDir>
+
+<editable>NO</editable>
+
+<devMode>NO</devMode>
+
+</helpData>
+
+</helpParameters>
